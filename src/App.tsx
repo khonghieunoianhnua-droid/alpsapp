@@ -681,22 +681,6 @@ export default function App() {
 
       {/* TOP HEADER */}
       <header className="sticky top-0 z-30 bg-[#FAF7F2]/95 backdrop-blur-md border-b border-stone-200/80">
-        {/* Status Bar */}
-        <div className="h-6 w-full flex items-center justify-between px-5 text-xs font-semibold text-stone-700">
-          <span>9:41</span>
-          <div className="flex items-center space-x-1.5 text-stone-700">
-            <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
-              <path d="M12 3c-4.97 0-9 4.03-9 9 0 2.12.74 4.07 1.97 5.61L4.35 19.4c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0l1.9-1.9C9.28 19.57 10.59 20 12 20c4.97 0 9-4.03 9-9s-4.03-9-9-9z" />
-            </svg>
-            <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
-              <path d="M12 4C7.31 4 3.07 5.9 0 8.98L12 21 24 8.98A16.88 16.88 0 0012 4z" />
-            </svg>
-            <div className="w-5 h-2.5 border border-current rounded-sm p-0.5 flex items-center">
-              <div className="h-full w-3 bg-current rounded-2xs" />
-            </div>
-          </div>
-        </div>
-
         {/* Announcement Bar */}
         <div className="bg-[#1C1A18] text-[#E7DEC8] text-[10px] tracking-wider py-1.5 px-4 flex items-center justify-between uppercase font-medium">
           <span className="flex items-center gap-1.5">
