@@ -1,0 +1,6 @@
+{
+  "name": "ALPS Pure Essence",
+  "description": "Ứng dụng mua sắm dược mỹ phẩm thuần chay chuẩn Thụy Sĩ ALPS Pure Essence với tính năng soi da quang học và đồng bộ hình ảnh trực tiếp.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

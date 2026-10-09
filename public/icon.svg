@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1C1A18"/>
+  <rect x="36" y="36" width="440" height="440" rx="84" fill="none" stroke="#B89758" stroke-width="6" stroke-opacity="0.6"/>
+  <path d="M136 330 L226 170 L282 268 L322 204 L388 330 Z" fill="none" stroke="#B89758" stroke-width="14" stroke-linejoin="round"/>
+  <text x="256" y="395" font-family="Cinzel, Georgia, serif" font-size="68" font-weight="700" fill="#FAF7F2" text-anchor="middle" letter-spacing="14">ALPS</text>
+  <text x="256" y="432" font-family="sans-serif" font-size="20" font-weight="600" fill="#B89758" text-anchor="middle" letter-spacing="8">SWISS LUXURY</text>
+</svg>
